@@ -1,1 +1,2 @@
-0x02-redis_basic
+# REDIS HASH TABLE
+redis hash table for this one
